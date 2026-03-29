@@ -1,0 +1,21 @@
+{
+  "name": "claude-skills-marketplace",
+  "owner": {
+    "name": "Aleh Reishal"
+  },
+  "metadata": {
+    "description": "A collection of Claude Code skills for software development workflows",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "cli-design",
+      "source": "./plugins/cli-design",
+      "description": "Design and specify CLIs following POSIX and GNU standards",
+      "version": "1.0.0",
+      "license": "MIT",
+      "category": "development",
+      "keywords": ["cli", "posix", "gnu", "design"]
+    }
+  ]
+}

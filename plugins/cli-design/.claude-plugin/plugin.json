@@ -1,0 +1,6 @@
+{
+  "name": "cli-design",
+  "description": "Design and specify command-line interfaces following POSIX and GNU standards",
+  "version": "1.0.0",
+  "license": "MIT"
+}
